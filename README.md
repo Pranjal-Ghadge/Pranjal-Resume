@@ -21,5 +21,5 @@ B.Tech Information Technology student at Veermata Jijabai Technological Institut
 ## Contact
 
 - 📧 Email: pranjalghadge3107@gmail.com
-- 💼 LinkedIn: linkedin.com/in/pranjal-ghadge
+- 💼 LinkedIn: [linkedin.com/in/pranjal-ghadge](https://www.linkedin.com/in/pranjal-ghadge/)
 - 💻 GitHub: https://github.com/Pranjal-Ghadge
